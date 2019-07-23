@@ -1,0 +1,5201 @@
+[{
+	"AssetId": "BBK03070002814465",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 66.744,
+			"Date": "2019-04-29 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 13.730,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 24.810,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 26.980,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 1.226,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},//报警原因
+			"RecommendationText": {//轴承分开表，
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-05-06 10:00:36.9582660 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-05-06 10:00:37.0125112 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-05-06 10:00:37.1071716 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-05-06 10:00:37.1270008 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.1000028485",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 23.554,
+			"Date": "2018-07-04 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 20.230,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 3.320,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2011-07-10 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.1000028486",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 23.554,
+			"Date": "2018-06-07 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 20.230,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 3.320,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2011-09-03 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.1000035559",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 23.554,
+			"Date": "2018-06-30 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 20.230,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 3.320,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2012-02-18 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.20190425",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 39.924,
+			"Date": "2009-11-30 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 15.310,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 17.620,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 4.760,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 2.233,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2009-11-30 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2009-11-30 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.78002",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 22.959,
+			"Date": "2018-08-15 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 20.700,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 2.264,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2004-07-10 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.79554",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 13.438,
+			"Date": "2018-08-14 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 13.440,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": []
+	}
+}, {
+	"AssetId": "CBK.889909",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 46.670,
+			"Date": "2018-07-09 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 13.520,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 15.560,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 16.280,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 1.314,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2010-09-20 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2010-09-20 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:50:16.7255627 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-07-09 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.890",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 53.466,
+			"Date": "2018-10-18 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 21.110,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 32.400,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-10-18 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-10-18 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-10-18 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.9880",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 13.438,
+			"Date": "2015-06-27 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 13.440,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": []
+	}
+}, {
+	"AssetId": "CBK.9887",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 23.554,
+			"Date": "2018-06-04 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 20.230,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 3.320,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2011-07-10 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.990",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 71.615,
+			"Date": "2018-06-07 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 34.300,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 27.790,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 8.210,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 1.340,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-06-07 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:38:40.2923275 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-06-07 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-06-07 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-06-07 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-06-07 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.GLD142825",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 74.296,
+			"Date": "2018-07-10 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Accessory": {
+					"Value": 14.630,
+					"SubScores": {}
+				},
+				"Wear": {
+					"Value": 10.450,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 21.930,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 26.120,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 1.176,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2015-12-30 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-07-10 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-07-10 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:39:21.3919030 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:46:16.4853933 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:46:16.4855609 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2011-12-30 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2011-12-30 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:39:41.2660811 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2011-12-30 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000028487",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 13.438,
+			"Date": "2015-06-27 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 13.440,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": []
+	}
+}, {
+	"AssetId": "CBK.S1000028489",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 27.090,
+			"Date": "2018-04-06 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 27.090,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2016-06-27 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000028690",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 23.280,
+			"Date": "2017-04-03 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 9.980,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 13.300,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": []
+	}
+}, {
+	"AssetId": "CBK.S1000028692",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 38.095,
+			"Date": "2018-03-13 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 8.790,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 5.860,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 23.440,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2016-06-27 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000054005",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 13.545,
+			"Date": "2017-04-03 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 13.540,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": []
+	}
+}, {
+	"AssetId": "CBK.S1000061188",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 27.090,
+			"Date": "2018-04-04 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 27.090,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2016-06-27 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000070260",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 40.159,
+			"Date": "2017-04-03 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 4.350,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 12.580,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 23.220,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2015-06-27 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000099911",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 26.276,
+			"Date": "2018-05-16 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 22.930,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 3.340,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2010-09-20 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:39:20.3033456 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:50:36.4234881 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:45:36.2085839 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000103063",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:33",
+	"ModelOutput": {
+		"Score": {
+			"Value": 18.624,
+			"Date": "2017-09-09 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 7.980,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 10.640,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:40:43.8021498 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000121860",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 27.090,
+			"Date": "2017-04-03 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 27.090,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2015-06-27 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000121862",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 51.640,
+			"Date": "2017-09-03 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 13.050,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 21.200,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 17.390,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2015-06-27 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2015-06-27 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2017-09-03 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:44:38.3826268 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2017-09-03 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000516146",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 19.894,
+			"Date": "2017-04-03 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 9.630,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 10.270,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": []
+	}
+}, {
+	"AssetId": "CBK.S1000536131",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 43.598,
+			"Date": "2018-03-30 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 14.180,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 12.610,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 16.810,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-03-30 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2015-06-27 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-03-30 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000556257",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 26.138,
+			"Date": "2017-04-03 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 7.280,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 8.080,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 10.780,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": []
+	}
+}, {
+	"AssetId": "CBK.S1000748930",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 40.847,
+			"Date": "2017-09-09 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 9.270,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 4.120,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 27.460,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2015-06-27 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000823598",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 45.079,
+			"Date": "2018-04-03 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 35.900,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 9.130,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:40:40.4434207 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-04-03 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000823602",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 55.238,
+			"Date": "2018-02-21 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 31.350,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 23.890,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2016-06-27 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-02-21 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000823606",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 37.757,
+			"Date": "2017-04-03 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 16.630,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 21.120,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:41:37.2124241 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2017-04-03 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2017-04-03 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000823610",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 41.143,
+			"Date": "2018-07-05 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 16.940,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 24.200,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-07-05 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2015-06-27 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000823615",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 51.852,
+			"Date": "2018-02-26 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 32.600,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 19.290,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-02-26 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-02-26 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000823619",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 55.238,
+			"Date": "2018-04-06 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 31.350,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 23.890,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2015-06-27 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-04-06 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "CBK.S1000823630",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 27.725,
+			"Date": "2018-07-07 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 7.850,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 9.420,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 10.460,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 0.000,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": []
+	}
+}, {
+	"AssetId": "NMG0001A",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 4.200,
+			"Date": "2019-03-01 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.150,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.102,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 3.948,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5008",
+				"TextValues": "设备状态更新可用"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0032",
+				"TextValues": "考虑到变压器的重要性以及最近计算出的故障风险，应加快降低风险的措施。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-03-01 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "NMG0002B",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 4.223,
+			"Date": "2019-03-01 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.150,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.101,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 3.972,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5008",
+				"TextValues": "设备状态更新可用"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0032",
+				"TextValues": "考虑到变压器的重要性以及最近计算出的故障风险，应加快降低风险的措施。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-03-01 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.000151",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.289,
+			"Date": "2018-07-01 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.090,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.099,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0071",
+				"TextValues": "油和固体绝缘中含水量高，尽管油介电质强度降低或者油功率因数测试未确认这一点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0228",
+				"TextValues": "建议开展离线DFR测试，以核实问题。确认以后， 建议进行油处理。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建 议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:11:43.6664931 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.000332",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.287,
+			"Date": "2017-12-06 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.090,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.097,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0232",
+				"TextValues": "高温金属气体表明大约{faultTemp}°C的预计故障温度。包括接触不良（检查套管及LTC接头，确定LTC接触电阻是否增大）、线匝短路及绕组绞线断裂在内的若干问题可引发这种问题。这些气体也可能随着各种原因引起的铁芯意外接地而出现，包括铁芯接地电阻降低到使绝缘变得有电阻的程度，铁芯接地绝缘在运输或贯穿性故障过程中损坏，制造或设计问题使得铁芯螺栓和板不正常地使多个部件接地。在任何此类情况下，铁芯内可能有循环电流，在铁芯及周围结构物中产生热点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0092",
+				"TextValues": "应开展绕组电阻、绝缘电阻、绝缘功率因数及铁芯接地电阻测试。电压比（TTR）及感应电压测试也 可能有助于确认内部问题。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽 快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2007-05-04 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系 统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可 显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题， 考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0034",
+				"TextValues": "应在一年以内采取建 议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2015-05-19 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇 、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱 壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气 。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0034",
+				"TextValues": "应在一年以内采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:14:04.9151503 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0079",
+				"TextValues": "油界面张力超出允许水平，尽管酸度仍在限度以内。这表明油老化并且伴随着磁极污染和氧化副产品。油污染加快绝缘老化，形成油泥，影响正常的油循环。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0229",
+				"TextValues": "强烈建议通过处理/回收使油恢复可接受状态。解决油质量问题以前，再采集一个样本，评估呋喃含量 ，以便确定固体绝缘的状态。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应 尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:14:04.9154529 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.000551",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 4.352,
+			"Date": "2018-06-30 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.097,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 4.225,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0079",
+				"TextValues": "油界面张力超出允许水平，尽管酸度仍在限度以内。这表明油老化并且伴随着磁极污染和氧化副产品。油污染加快绝缘老化，形 成油泥，影响正常的油循环。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0229",
+				"TextValues": "强烈建议通过处理/回收使油恢复可接受状态。解决油质量问题以前，再采集一个样本，评估呋喃含量，以便确定固体绝缘的状态。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2017-02-21 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5008",
+				"TextValues": "设备状态更新可用"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0032",
+				"TextValues": "考虑到变压器的重要性以及最近计算出的故障风险，应加快降低风险的措施。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2017-08-05 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0232",
+				"TextValues": "高温金属气体表明大约{faultTemp}°C的预计故障温度。包括接触不良（检查套管及LTC接头，确定LTC接触电阻是否增大）、线匝短路及绕组绞线断裂在内的若干问题可引发这种问题。这些气体也可能随着各种原因引起的铁芯意外接地而出现，包括铁芯接地电阻降低到使绝缘变得有电阻的程度，铁芯接地绝缘在运输或贯穿性故障过程中损坏，制造或设计问题使得铁芯螺栓和板不正常地使多个部件接地。在任何此类情况下，铁芯内可能有循环电流，在铁芯及周围结构物中产生热点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0092",
+				"TextValues": "应开展绕组电阻、绝缘电阻、绝缘功率因数及铁芯接地电阻测试。电压比（TTR）及感应电压测试也可能有助于确认内部问题。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2017-02-21 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞 油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0034",
+				"TextValues": "应在一年以内采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-06-30 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.000688",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 6.574,
+			"Date": "2018-07-05 11:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.090,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.289,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 6.195,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0304",
+				"TextValues": "可使变压器空载运行一段时间并观察气体是否继续增加，确认电介质问题。  其它试验包括绝缘电阻及功率因数测量、通过DFR试验查找焦化、现场感应电压测试、现场局部放电测试/超声试验。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-07-05 11:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-07-05 11:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:17:00.5508195 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5008",
+				"TextValues": "设备状态更新可用"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0032",
+				"TextValues": "考虑到变压器的重要性以及最近计算出的故障风险，应加快降低风险的措施。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-07-05 11:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊 断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0304",
+				"TextValues": "可 使变压器空载运行一段时间并观察气体是否继续增加，确认电介质问题。  其它试验包括绝缘电阻及功率因数测量、通过DFR试验查找焦 化、现场感应电压测试、现场局部放电测试/超声试验。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:17:00.5511105 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.1000541883",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.288,
+			"Date": "2018-07-02 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.090,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.098,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环 电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:16:02.4381629 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并 确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题 以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-07-02 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0304",
+				"TextValues": "可使变压器空载运行一段时间并观察气体是否继续增加，确认电介质问题。  其它试验包括绝缘电阻及功率因数测量、通过DFR试验查找焦化、现场感应电压测试、现场局部放电测试/超声试验。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:14:04.2096538 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:16:02.4385638 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-07-02 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0068",
+				"TextValues": "尽管油功率因数或直接水分测量值并未确认这一点，介电质强度低可能表明油中有水分和/或油污染。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0230",
+				"TextValues": "建议开展离线DFR测试，以确定问题根源及部位。确认以后，建议进行油处理。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:14:43.2753970 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0232",
+				"TextValues": "高温金属气体表明大约{faultTemp}°C的预计故障温度。包括接触不良（检查套管及LTC接头，确定LTC接触 电阻是否增大）、线匝短路及绕组绞线断裂在内的若干问题可引发这种问题。这些气体也可能随着各种原因引起的铁芯意外接地而出现，包括铁芯接地电阻降低到使绝缘变得有电阻的程度，铁芯接地绝缘在运输或贯穿性故障过程中损坏，制造或设计问题使得铁芯螺栓和板不正常地使多个部件接地。在任何此类情况下，铁芯内可能有循环电流，在铁芯及周围结构物中产生热点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0092",
+				"TextValues": "应开展绕组电阻、绝缘电阻、绝缘功率因数及铁芯接地电阻测试。电压比（TTR）及感应电压测试也可能有助于确认内部问题。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:17:03.8097346 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.1003137702",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.189,
+			"Date": "2018-06-18 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.059,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2016-05-24 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油 系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行 内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2016-05-24 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.111",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.486,
+			"Date": "2018-05-11 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.090,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.096,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.300,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜 瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0304",
+				"TextValues": "可使变压器空载运行一段时间并观察气体是否继续增加，确认电介质问题。  其它试验包括绝缘电阻及功率因数测量、 通过DFR试验查找焦化、现场感应电压测试、现场局部放电测试/超声试验。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:11:14.3310950 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0232",
+				"TextValues": "高温金属气体表明大约{faultTemp}°C的预计故障温度。包括接触不良（检查套管及LTC接头，确定LTC接触 电阻是否增大）、线匝短路及绕组绞线断裂在内的若干问题可引发这种问题。这些气体也可能随着各种原因引起的铁芯意外接地而出现，包括铁芯接地电阻降低到使绝缘变得有电阻的程度，铁芯接地绝缘在运输或贯穿性故障过程中损坏，制造或设计问题使得铁芯螺栓和板不正常地使多个部件接地。在任何此类情况下，铁芯内可能有循环电流，在铁芯及周围结构物中产生热点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0092",
+				"TextValues": "应开展绕组电阻、绝缘电阻、绝缘功率因数及铁芯接地电阻测试。电压比（TTR）及感应电压测试也可能有助于确认内部问题。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:30:03.6226570 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5008",
+				"TextValues": "设备状态更新可用"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0032",
+				"TextValues": "考虑到变压器的重要性以及最近计算出的故障风险，应加快降低风险的措施。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:29:42.1590839 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0079",
+				"TextValues": "油 界面张力超出允许水平，尽管酸度仍在限度以内。这表明油老化并且伴随着磁极污染和氧化副产品。油污染加快绝缘老化，形成油泥，影响正常的油循环。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0229",
+				"TextValues": "强烈建议通过处理/回收使油恢复可接受状态。解决油质量问题以前，再采集一个样本，评估呋喃含量，以便确定固体绝缘的状态。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-05-11 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0304",
+				"TextValues": "可使变压器空载运行一段时间并观察气体是否继续增加，确认电介质问题 。  其它试验包括绝缘电阻及功率因数测量、通过DFR试验查找焦化、现场感应电压测试、现场局部放电测试/超声试验。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:23:21.4479046 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:17:22.0840019 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0071",
+				"TextValues": "油和固体绝缘中含水量高，尽管油介电质强度降低或者油功率因数测试未确认这一点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0228",
+				"TextValues": "建议开展离线DFR测试，以核实问题。确认以后，建议进行油处理。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:17:22.0843053 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0304",
+				"TextValues": "可使变压器空载运行一段时间并观察气体是否继续增加，确认电介质问题。  其它试验包括绝缘电阻及功率因数测量、通过DFR试验查找焦化、现场感应电压测试、现场局部放电测试/超声试验。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:25:40.7686093 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0074",
+				"TextValues": "油介电质强度降低确认存在水分问题，尽管油功率因数似乎正常。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0227",
+				"TextValues": "建议开展离线DFR测试，以确认和确定问题。确认以后，强烈建议进行油处理。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:11:14.3358232 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、 散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:30:03.6229246 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0079",
+				"TextValues": "油界面张力超出允许水平，尽管酸度仍在限度以内。这表明油老化并且伴随着磁极 污染和氧化副产品。油污染加快绝缘老化，形成油泥，影响正常的油循环。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0229",
+				"TextValues": "强烈建议通过处理/回收使油恢复可接受状态。解决油质量问题以前，再采集一个样本， 评估呋喃含量，以便确定固体绝缘的状态。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:29:42.1627338 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5008",
+				"TextValues": "设备状态更新可用"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0032",
+				"TextValues": "考虑到变压器的重要性以及最近计算出的故障风险，应加快降低风险的措施。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:17:22.0846573 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0304",
+				"TextValues": "可使变压器空载运行一段时间并观察气体是否继续增加，确认电介质问题。  其它试验包括绝缘电阻及功率因数测量、通过DFR试验查找焦化、现场感 应电压测试、现场局部放电测试/超声试验。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:17:22.0850715 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:30:03.6958768 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0071",
+				"TextValues": "油和固体绝缘中含水量高，尽管油介电质强度降低或者油功率因数测试未确认这一点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0228",
+				"TextValues": "建议开展离线DFR测试，以核实问题。确认以后，建议进行油处理。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:13:45.4167329 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0304",
+				"TextValues": "可使变压器空载运行一段时间并观察气体是否继续增加，确认电介质问题。  其它试验包括绝缘电阻及功率因数测量、通过DFR试验查找焦化、现场感应电压测试、现场局部放电测试/超声试验。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:22:41.3420691 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.12360",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.229,
+			"Date": "2003-07-26 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.099,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": []
+	}
+}, {
+	"AssetId": "XFM.12617",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.215,
+			"Date": "1989-11-01 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.085,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA 问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0232",
+				"TextValues": "高温金属气体表明大约{faultTemp}°C的预计故障温度。包括接触不良（检查套管及LTC接头，确定LTC接触电阻是否增大）、线匝短路及绕组绞线断裂在内的若干问 题可引发这种问题。这些气体也可能随着各种原因引起的铁芯意外接地而出现，包括铁芯接地电阻降低到使绝缘变得有电阻的程度，铁芯接地绝缘在运输或贯穿性故障过程中损坏，制造或设计问题使得铁芯螺栓和板不正常地使多个部件接地。在任何此类情况下，铁芯内可能有循环电流，在铁芯及周围结构物中产生热点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0092",
+				"TextValues": "应开展绕组电阻、绝缘电阻、绝缘功率因数及铁芯接地电阻测试。电压比（TTR）及感应电压测试也可能有助于确认 内部问题。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施 。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "1989-07-06 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门 、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油 路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0034",
+				"TextValues": "应在一年以内采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:17:41.6450744 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0304",
+				"TextValues": "可使变压器空载运行一段时间并观察气体是否继续增加， 确认电介质问题。  其它试验包括绝缘电阻及功率因数测量、通过DFR试验查找焦化、现场感应电压测试、现场局部放电测试/超声试验。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:14:22.1418617 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故 障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。 必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:16:42.0998534 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影 机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问 题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:14:03.3505778 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措 施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:17:41.6474817 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀 门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、 油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:16:42.1001344 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0307",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0265",
+				"TextValues": "强烈建议获取完整的DGA以便作进一步分析。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:10:04.7759941 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.12704",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.673,
+			"Date": "2018-12-05 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.543,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形 法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和 闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0034",
+				"TextValues": "应在一年以内采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:17:42.8046965 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0232",
+				"TextValues": "高温金属气体表明大约{faultTemp}°C的预计故障温度。包 括接触不良（检查套管及LTC接头，确定LTC接触电阻是否增大）、线匝短路及绕组绞线断裂在内的若干问题可引发这种问题。这些气体也可能随着各种原因引起的铁芯意外接地而出现，包括铁芯接地电阻降低到使绝缘变得有电阻的程度，铁芯接地绝缘在运输或贯穿性故障过程中损坏，制造或设计问题使得铁芯螺栓和板不正常地使多个部件接地。在任何此类情况下，铁芯内可能有循环电流，在铁芯及周围结构物中产生热点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0092",
+				"TextValues": "应开展绕组电阻、绝缘电阻、绝缘功率因数及铁芯接地电阻测试。电压比（TTR）及感应电压测试也可能有助于确认内部问题。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "1998-11-03 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统 等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部 检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0034",
+				"TextValues": "应在一年以内采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:26:00.9936992 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查 导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找 导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0034",
+				"TextValues": "应在一年以内采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-12-05 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连 接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0034",
+				"TextValues": "应在一年以内采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:14:22.7531673 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定 最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及 铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0034",
+				"TextValues": "应在一年以内采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:16:41.2213314 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三 角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电 流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0034",
+				"TextValues": "应在一年以内采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:27:03.4748725 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障 诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": " 建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否 引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞 油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0034",
+				"TextValues": "应在一年以内采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:23:01.3810277 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.12993",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 1.228,
+			"Date": "2018-07-08 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.098,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 1.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0130",
+				"TextValues": "设备阻蚀剂耗尽。这可能因正常消耗所致，但油氧化也可加快消耗。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0233",
+				"TextValues": "建议恢复0.09%的最大阻蚀剂含量。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0034",
+				"TextValues": "应在一年以内采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:15:02.1203250 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔 含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2015-10-20 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检 查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查 找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2015-10-20 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.13060",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.225,
+			"Date": "2018-03-29 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.095,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障 。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必 须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": " 应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:11:33.8600553 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷 却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影 机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问 题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0034",
+				"TextValues": "应在一年以内采 取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:11:33.8738266 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.13397",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 2.288,
+			"Date": "2018-07-07 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.090,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.098,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 2.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0130",
+				"TextValues": "设备阻蚀剂耗尽。这可能因正常消耗所致，但油氧化也可加快消耗。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0233",
+				"TextValues": "建议恢复0.09%的最大阻蚀剂含量。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0034",
+				"TextValues": "应在一年以内采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2008-11-21 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA 问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了 电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-07-07 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措 施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连 接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。 如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-07-07 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.19083",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 3.228,
+			"Date": "2018-06-18 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.098,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 3.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0304",
+				"TextValues": "可使变压器空载运行一段时间并观察气体是否继 续增加，确认电介质问题。  其它试验包括绝缘电阻及功率因数测量、通过DFR试验查找焦化、现场感应电压测试、现场局部放电测试/超声试验。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:14:02.2003141 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电 或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测 试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:14:02.2005026 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质 问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0066",
+				"TextValues": "25°C（正常情况下是100°C）温度条件下的油功率因数高表明油中有水分，尽管油测量值中的直接水分并未确认，油介电质强度（均在限度以内）也未确认。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0228",
+				"TextValues": "建议开展离线DFR测试，以核实问 题。确认以后，建议进行油处理。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-06-18 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0232",
+				"TextValues": "高温金属气体表明大约{faultTemp}°C的预计故障温度。包括接触不良（检查 套管及LTC接头，确定LTC接触电阻是否增大）、线匝短路及绕组绞线断裂在内的若干问题可引发这种问题。这些气体也可能随着各种原因引起的铁芯意外接地而出现，包括铁芯接地电阻降低到使绝缘变得有电阻的程度，铁芯接地绝缘在运输或贯穿性故障过程中损坏，制造或设计问题使得铁芯螺栓和板不正常地使多个部件接地。在任何此类情况下，铁芯内可能有循环电流，在铁芯及周围结构物中产生热点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0092",
+				"TextValues": "应开展绕组电阻、绝缘电阻、绝缘功率因数及铁芯接地电阻测试。电压比（TTR）及感应电压测试也可能有助于确认内部问题。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:14:02.2008517 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-06-18 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5008",
+				"TextValues": "设备状态更新可用"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0032",
+				"TextValues": "考虑到变压器的重要性以及最近计算出的故障风险，应加快降低风险的措施。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:14:02.2011468 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0304",
+				"TextValues": "可使变压器空载运行一段时间并观察气体是否继续增加，确认电介质问题。  其它试验包括绝缘电 阻及功率因数测量、通过DFR试验查找焦化、现场感应电压测试、现场局部放电测试/超声试验。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-06-18 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.22789",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.227,
+			"Date": "2018-06-19 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.097,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": []
+	}
+}, {
+	"AssetId": "XFM.22790",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.228,
+			"Date": "2018-07-02 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.098,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": []
+	}
+}, {
+	"AssetId": "XFM.23444",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 3.648,
+			"Date": "1999-07-08 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.449,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.069,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 3.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、 冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的 热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:25:44.0167749 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统 等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部 检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:15:02.3267996 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0034",
+				"TextValues": "应在一年以内采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:27:20.7106578 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA 问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并 确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题 以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:27:02.5141467 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:29:41.6478096 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙 炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "1988-09-22 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0232",
+				"TextValues": "高温金属气体表明大约{faultTemp}°C的预计故障温度。包括接触不良（检查套管及LTC接头，确定LTC接触电阻是否增大）、线匝短路及绕组绞线断裂在内的若干问题可引发这种问题。这些气体也可能随着各种原因引起的铁芯意外接地而出现，包括铁芯接地电阻降低到使绝缘变得有电阻的程度，铁芯接地绝缘在运输或贯穿性故障过程中损坏，制造或设计问题使得铁芯螺栓和板不正常地使多个部件接地。在任何此类情况下，铁芯内可能有循环电流，在铁芯及周围结构物中产生热点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0092",
+				"TextValues": "应开展绕组电阻、绝缘电阻、绝缘功率因数及铁芯接地电阻测试。电压比（TTR）及感应电压 测试也可能有助于确认内部问题。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:25:44.0171636 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影 机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问 题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:17:23.4406800 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5008",
+				"TextValues": "设备状态更新可用"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0032",
+				"TextValues": "考虑到变压器的重要性以及最近计算出的故障风险，应加快降低风险的措施。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:23:20.9793136 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接 问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如 果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "1997-01-18 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5008",
+				"TextValues": "设备状态更新可用"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0032",
+				"TextValues": "考虑到变压器的重要性以及最近计算出的故障风险，应加快降低风险的措施。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "1998-07-12 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5008",
+				"TextValues": "设备状态更新可用"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0032",
+				"TextValues": "考虑到变压器的重要性以及最近计算出的故障风险，应加快降低风险的措施。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:27:02.5144152 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三 角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电 流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:14:21.0066791 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0232",
+				"TextValues": "高温金属气体表明大约{faultTemp}°C的预计故障温度。包括接触不良（检查套管及LTC接头，确定LTC接触电阻是否增大）、线匝短路及绕组绞线断裂在内的若干问题 可引发这种问题。这些气体也可能随着各种原因引起的铁芯意外接地而出现，包括铁芯接地电阻降低到使绝缘变得有电阻的程度，铁芯接地绝缘在运输或贯穿性故障过程中损坏，制造或设计问题使得铁芯螺栓和板不正常地使多个部件接地。在任何此类情况下，铁芯内可能有循环电流，在铁芯及周围结构物中产生热点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0092",
+				"TextValues": "应开展绕组电阻、绝缘电阻、绝缘功率因数及铁芯接地电阻测试。电压比（TTR）及感应电压测试也可能有助于确认内 部问题。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "1992-07-17 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.239800",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.229,
+			"Date": "2018-09-12 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.099,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进 行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:17:42.5658161 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器 、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上 的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:14:45.3441657 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系 统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内 部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-09-12 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2000-04-15 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:14:04.5952589 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、 检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查， 查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:18:02.0128542 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.246",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.229,
+			"Date": "2018-05-19 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.099,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机 可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题 ，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:27:00.8109805 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0304",
+				"TextValues": "可使变压器空载运行一段时间并观察气体是否继续增加，确认电介质问题。  其它试验包括绝缘电阻及功率因数测量、通过DFR试验查找焦化、现场感 应电压测试、现场局部放电测试/超声试验。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:29:40.3431366 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0232",
+				"TextValues": "高温金属气体表明大约{faultTemp}°C的预计故障温度。包括接触不良（检查套管及LTC接头，确定LTC接触电阻是否增大）、线匝短路及绕组绞线断裂在内的若干问题可引发这种问题。这些气体也可能随着各种原因引起的铁芯意外接地而出现，包括铁芯接地电阻降低到使绝缘变得有电阻的程度，铁芯接地绝缘在运输或贯穿性故障过程中损坏，制造或设计问题使得铁芯螺栓和板不正常地使多个部件接地。在任何此类情况下，铁芯内可能有循环电流，在铁芯及周围结构物中产生热点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0092",
+				"TextValues": "应开展绕组电阻、绝缘电阻、绝缘功率因数及铁芯接地电阻测试。电压比（TTR）及感应电 压测试也可能有助于确认内部问题。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:23:20.2931428 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0304",
+				"TextValues": "可使变压器空载运行一段时间并观察气体是否继续增加，确认电介质问题。  其它试验包括绝缘电阻及功率因数测量、通过DFR试验查找焦化、现场感应电压测 试、现场局部放电测试/超声试验。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:30:01.0838212 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0068",
+				"TextValues": "尽 管油功率因数或直接水分测量值并未确认这一点，介电质强度低可能表明油中有水分和/或油污染。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0230",
+				"TextValues": "建议开展离线DFR测试，以确定问题根源及部位。确认以后，建议进行油处理。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措 施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:25:43.3843559 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:22:40.4930916 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5008",
+				"TextValues": "设备状态更新可用"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0032",
+				"TextValues": "考虑到变压器的重要性以及最近计算出的故障风险，应加快降低风险的措施。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:30:01.0840768 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:30:01.0855388 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0079",
+				"TextValues": "油界面张力超出允许水平，尽管酸度仍在限度以内。这表明油老化并且伴随着磁极污染和氧化副产品。油污染加快绝缘老化 ，形成油泥，影响正常的油循环。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0229",
+				"TextValues": "强烈建议通过处理/回收使油恢复可接受状态。解决油质量问题以前，再采集一个样本，评估呋喃含量，以便确定固体绝缘的状态 。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:25:43.3846188 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.25879",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.289,
+			"Date": "2018-06-13 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.090,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.099,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": []
+	}
+}, {
+	"AssetId": "XFM.30200289",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 1.489,
+			"Date": "2018-06-15 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.090,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.099,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 1.300,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-06-15 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可 显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题， 考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-06-15 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0079",
+				"TextValues": "油界面张力超出允许水平，尽管酸度仍在限度以内。这表明油老化并且伴随着磁极污染和氧化副产品。油污染加快绝缘老化，形成油泥，影响正常的油循环。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0229",
+				"TextValues": "强烈建议通过处理/回收使油恢复可接受状态。解决油质量问题以前 ，再采集一个样本，评估呋喃含量，以便确定固体绝缘的状态。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-06-15 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.600999",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.229,
+			"Date": "2018-09-11 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.099,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、 散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2017-05-24 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2017-05-24 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.609",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.289,
+			"Date": "2018-05-28 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.090,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.099,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": []
+	}
+}, {
+	"AssetId": "XFM.6680",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.289,
+			"Date": "2018-07-02 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.090,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.099,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": []
+	}
+}, {
+	"AssetId": "XFM.710",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.289,
+			"Date": "2018-05-31 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.090,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.099,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": []
+	}
+}, {
+	"AssetId": "XFM.GLD1629568",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 1.228,
+			"Date": "2000-03-04 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.098,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 1.100,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "1988-07-15 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外 摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外 部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取 建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2000-03-04 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风 扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油 箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排 气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:30:21.0880828 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄 影机可显示油箱壁、油路、散热器上的热点。如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部 问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:27:02.2977591 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0232",
+				"TextValues": "高温金属气体表明大约{faultTemp}°C的预计故障温度。包括 接触不良（检查套管及LTC接头，确定LTC接触电阻是否增大）、线匝短路及绕组绞线断裂在内的若干问题可引发这种问题。这些气体也可能随着各种原因引起的铁芯意外接地而出现，包括铁芯接地电阻降低到使绝缘变得有电阻的程度，铁芯接地绝缘在运输或贯穿性故障过程中损坏，制造或设计问题使得铁芯螺栓和板不正常地使多个部件接地。在任何此类情况下，铁芯内可能有循环电流，在铁芯及周围结构物中产生热点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0092",
+				"TextValues": "应开展绕组电阻、绝缘电阻、绝缘功率因数及铁芯接地电阻测试。电压比（TTR）及感应电压测试也可能有助于确认内部问题。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:25:42.2346557 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等 ）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行内部检 查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:17:27.0249811 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器 、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。 如进行内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:25:42.2349514 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0232",
+				"TextValues": "高温金属气体表明大约{faultTemp}°C的预计故障温度。包括接触不良（检查套管及LTC接头，确定LTC接触电阻是否增大）、线匝短路及绕组绞线断裂在内的若干问题可引发这种问题。这些气体也可能随着各种原因引起的铁芯意外接地而出现，包括铁芯接地电阻降低到使绝缘变得有电阻的程度，铁芯接地绝缘在运输或贯穿性故障过程中损坏，制造或设计问题使得铁芯螺栓和板不正常地使多个部件接地。在任何此类情况下，铁芯内可能有循环电流，在铁芯及周围结构物中产生热点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0092",
+				"TextValues": "应开展绕组电阻、绝缘电阻、绝缘功率因数及铁芯接地电阻测试。电压比（TTR）及感应电压 测试也可能有助于确认内部问题。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "1992-09-27 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5008",
+				"TextValues": "设备状态更新可用"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0032",
+				"TextValues": "考虑到变压器的重要性以及最近计算出的故障风险，应加快降低风险的措施。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-04-22 01:23:21.8847649 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "XFM.LTC99009",
+	"AssetType": "Transformer",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 0.428,
+			"Date": "2018-11-30 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"High Temperature": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Miscellaneous": {
+					"Value": 0.000,
+					"SubScores": {}
+				},
+				"Accessory": {
+					"Value": 0.030,
+					"SubScores": {}
+				},
+				"Short Circuit": {
+					"Value": 0.098,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 0.300,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5001",
+				"TextValues": "DGA问题/杜瓦尔三角形法故障诊断"
+			},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0303",
+				"TextValues": "建议措施包括彻底检查冷却系统（风扇、阀门、泵、散热器、冷却器、储油系统等）、检查导线及LTC连接，并确定最近的DETC变化是否引起连接问题。红外摄影机可显示油箱壁、油路、散热器上的热点。如进行 内部检查，查找导线及LTC连接问题以及铁芯循环电流和闭塞油路。如果未发现外部问题，考虑排气。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-11-30 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0305",
+				"TextValues": "乙炔含量高表明可能发生了电弧放电或高温故障。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0306",
+				"TextValues": "可通过DFR测试确认。必须安排内部检查，以定位故障。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-11-30 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5016",
+				"TextValues": "检测到油质问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0068",
+				"TextValues": "尽管油功率因数或直接水分测量值并 未确认这一点，介电质强度低可能表明油中有水分和/或油污染。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0230",
+				"TextValues": "建议开展离线DFR测试，以确定问题根源及部位。确认以后，建议进行油处理。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-11-30 00:00:00.0000000 +00:00"
+		}, {
+			"HeaderText": {
+				"TextId": "messages.Model.ABBTransformer.translated.5012",
+				"TextValues": "DGA问题"
+			},
+			"ConditionText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0232",
+				"TextValues": "高温金属气体表明大约{faultTemp}°C的预计故障温度。包括接触不良（检查套管及LTC接头，确定LTC接触电阻是否增大）、线匝短 路及绕组绞线断裂在内的若干问题可引发这种问题。这些气体也可能随着各种原因引起的铁芯意外接地而出现，包括铁芯接地电阻降低到使绝缘变得有电阻的程度，铁芯接地绝缘在运输或贯穿性故障过程中损坏，制造或设计问题使得铁芯螺栓和板不正常地使多个部件接地。在任何此类情况下，铁芯内可能有循环电流，在铁芯及周围结构物中产生热点。"
+			},
+			"RecommendationText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0092",
+				"TextValues": "应开展绕组电阻、绝缘电阻、绝缘功率因数及铁芯接地电阻测试。电压比（TTR）及 感应电压测试也可能有助于确认内部问题。"
+			},
+			"TimeframeText": {
+				"TextId": "messages.Model.ABBTransformer.translated.0033",
+				"TextValues": "应尽快采取建议措施。"
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2018-11-30 00:00:00.0000000 +00:00"
+		}]
+	}
+}, {
+	"AssetId": "YBK03070002814465",
+	"AssetType": "Circuit Breaker",
+	"OutputPushTime": "2019-05-17 13:05:34",
+	"ModelOutput": {
+		"Score": {
+			"Value": 84.563,
+			"Date": "2019-04-29 00:00:00.0000000 +00:00",
+			"SubScores": {
+				"Wear": {
+					"Value": 33.600,
+					"SubScores": {}
+				},
+				"Mechanical": {
+					"Value": 14.260,
+					"SubScores": {}
+				},
+				"Dielectric": {
+					"Value": 35.000,
+					"SubScores": {}
+				},
+				"Other": {
+					"Value": 1.721,
+					"SubScores": {}
+				}
+			}
+		},
+		"Messages": [{
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-05-06 10:00:34.8859703 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-05-06 10:00:36.9944678 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-05-06 10:00:37.0557601 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-05-06 10:00:37.0694118 +00:00"
+		}, {
+			"HeaderText": {},
+			"ConditionText": {},
+			"RecommendationText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"TimeframeText": {
+				"TextId": "",
+				"TextValues": ""
+			},
+			"Impact": 0,
+			"Urgency": 0,
+			"Cost": 0,
+			"UpdateDate": "2019-05-06 10:00:37.1462707 +00:00"
+		}]
+	}
+}]
